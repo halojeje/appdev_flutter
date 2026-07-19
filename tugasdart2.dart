@@ -5,7 +5,7 @@ void main() {
     double kehadiran = 75;
 
     // hitung rata rata
-    double ratarata = ("uts + uas")/2;
+    double ratarata = ("uts & uas")/2;
 
     // syarat kelulusan
     if(nilai > 70); {
